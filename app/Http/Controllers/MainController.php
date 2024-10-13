@@ -16,8 +16,11 @@ class MainController extends Controller
         return view('undangan', ['encryptedKata' => $encryptedKataUndangan]);
     }
 
-    public function undangan()
+    public function undangan($data)
     {
-        return view('buka-undangan');
+       
+        $decryptedKata = Crypt::decryptString($data);
+        return view('buka-undangan', ['decryptedKata' => $decryptedKata]);
     }
+
 }
