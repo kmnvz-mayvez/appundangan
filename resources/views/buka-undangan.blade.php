@@ -21,7 +21,7 @@
                 <div class="svg">
                     <img data-src="{{ asset('svg/mdl.svg') }}" class="lazyload" />
                 </div>
-                <img src="{{ asset('storage/uploads/1628291921.webp') }}" data-mdb-img="" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
+                <img src="https://res.cloudinary.com/diaej365u/image/upload/v1728787991/360_F_542361185_VFRJWpR2FH5OiAEVveWO7oZnfSccZfD3_hji9wo.jpg" data-mdb-img="" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
             </div>
         </div>
         <div class="sb-ad-group">
@@ -39,7 +39,7 @@
             <div class="svg">
                 <img data-src="{{ asset('svg/mdl.svg') }}" class="lazyload" />
             </div>
-            <img src="{{ asset('storage/uploads/1628291921.webp') }}" data-mdb-img="https://mepandeswp.mayvez.com/06da8f242adb218cb26b68ca522991a52d146a8d/b947/f72085fbf386b55b2f85e0cff1cda1d9edc26677.webp" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
+            <img src="https://res.cloudinary.com/diaej365u/image/upload/v1728787991/360_F_542361185_VFRJWpR2FH5OiAEVveWO7oZnfSccZfD3_hji9wo.jpg" data-mdb-img="" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
         </div>
         <div class="mt-6">
             <svg data-anim="slide-down" width="28" height="42" viewBox="0 0 28 42" fill="none" xmlns="http://www.w3.org/2000/svg" class="has-animate" data-load-animation="true">
