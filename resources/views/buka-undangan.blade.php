@@ -21,7 +21,7 @@
                 <div class="svg">
                     <img data-src="{{ asset('svg/mdl.svg') }}" class="lazyload" />
                 </div>
-                <img src="{{ asset('storage/uploads/1628291921.webp') }}" data-mdb-img="https://mepandeswp.mayvez.com/06da8f242adb218cb26b68ca522991a52d146a8d/b947/0d2f87e4d8c081b44453feb536386b31c87c7c8b.webp" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
+                <img src="{{ asset('storage/uploads/1628291921.webp') }}" data-mdb-img="" class="rounded-circle mt-5 ls-is-cached lazyloaded" alt="avatar" style="width: 175px;" data-aos="fade-out" />
             </div>
         </div>
         <div class="sb-ad-group">

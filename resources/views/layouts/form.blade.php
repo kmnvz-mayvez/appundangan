@@ -1,5 +1,5 @@
 <section class="d-flex flex-column justify-content-center" id="rsvp">
-    <div class="container-sm d-flex flex-column p-4" style="position: absolute;" id="form-undangan">
+    <div class="container-sm d-flex flex-column p-4" id="form-undangan">
         <h2 data-aos="fade-in" class="text-center mt-1">RSVP</h2>
         <h6 class="p-1"><strong>Mohon disini untuk data kehadiranya Bapak dan Ibu berserta kerluarga</strong></h6>
         <div class="mb-1">

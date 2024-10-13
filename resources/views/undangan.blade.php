@@ -36,7 +36,7 @@
             <div class="btn-buka">
                 <img data-src="{{ asset('svg/btn.svg') }}" class="lazyload" />
                 <div class="opn-txt">
-                    <a href="{{ route('undangan', ['data' => $encryptedKata]) }}">Buka</a>
+                  <a href="{{ route('isi', ['data' => $encryptedKata]) }}">Buka</a>
                 </div>
             </div>
         </div>
