@@ -5,21 +5,21 @@
         </div>
         <div class="box-x d-flex flex-column">
             <div class="box p-2 mb-2 mt-2">
-                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786767/1627187281_zlqled.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
+                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231513/162829_3_ahtwzc.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
                 <h5 data-aos="fade-in" class="p-4 mb-2 mt-2">Lorem Ipsum</h5>
             </div>
             <div class="box p-2 mb-2 mt-2">
-                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786767/1627277272_dpplor.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
+                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231513/162829_4_hnagtb.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
                 <h5 data-aos="fade-in" class="p-4 mb-2 mt-2">Lorem Ipsum</h5>
             </div>
         </div>
         <div class="box-x d-flex flex-column">
             <div class="box p-2 mb-2 mt-2">
-                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728787057/woman-wearing-traditional-balinese-clothes-standing-welcome-gesture_8595-27395_tsbg8j.avif" class=" img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
+                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231514/162829_1_zl26fz.jpg" class=" img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
                 <h5 data-aos="fade-in" class="p-4 mb-2 mt-2">Lorem Ipsum</h5>
             </div>
             <div class="box p-2 mb-2 mt-2">
-                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786767/1627187212_g26xvn.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
+                <img data-aos="fade-in" style="max-width:250px;" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231514/162829_2_fmzok6.jpg" class="img-fluid border border-primary border-4 rounded-pill shadow-2-strong lazyload" />
                 <h5 data-aos="fade-in" class="p-4 mb-2 mt-2">Lorem Ipsum</h5>
             </div>
         </div>

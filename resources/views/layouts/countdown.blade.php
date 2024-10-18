@@ -1,6 +1,6 @@
 <section class="d-flex flex-column justify-content-center">
-    <div class="container-sm">
-        <img data-src="" class="img-fluid lazyload opacity-50">
+    <div class="container-sm absoulte position-absolute">
+        <img data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729232891/Group_19_smu52u.png" class="img-fluid lazyload opacity-60">
     </div>
     <div class="container-sm d-flex flex-column text-center" >
         <h2 class="font-weight-bold mb-3" data-aos="fade-up">Waktu Menuju Acara</h2>

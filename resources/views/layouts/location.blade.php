@@ -1,4 +1,4 @@
-<div class="container d-flex flex-column mt-2 p-4 rounded-6" id="peta">
+<div class="container d-flex flex-column mt-2 mb-10 p-4 rounded-6" id="peta">
     <div class="text-center">
         <h2 class="title" data-aos="fade-up">Lokasi Acara</h2>
     </div>

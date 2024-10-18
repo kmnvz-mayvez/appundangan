@@ -21,13 +21,13 @@
                 </div>
                 <div class="slide-show">
                     <div class="slide active">
-                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786771/1690109157_qfhc2m.jpg" class="lazyload" />
+                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231513/162829_4_hnagtb.jpg" class="lazyload" />
                     </div>
                     <div class="slide">
-                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786771/1678338213_u9ombp.jpg" class="lazyload" />
+                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231514/162829_2_fmzok6.jpg" class="lazyload" />
                     </div>
                     <div class="slide">
-                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1728786769/1672828282_vxsxux.jpg" class="lazyload" />
+                        <img style="width: 300px; height: 430px" data-src="https://res.cloudinary.com/diaej365u/image/upload/v1729231514/162829_1_zl26fz.jpg" class="lazyload" />
                     </div>
                 </div>
             </div>

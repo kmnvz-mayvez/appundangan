@@ -5,7 +5,7 @@
                 Copyrights© Admiral-team
             </div>
             <div>
-                Powered by <a href="https://mayvez.com/">mayvez.com</a>
+                Created by <a href="https://github.com/kmnvz-mayvez">Manutama</a>
             </div>
         </div>
     </div>
